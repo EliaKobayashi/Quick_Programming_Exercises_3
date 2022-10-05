@@ -13,6 +13,6 @@ def TimeTrial():
 
 print(TimeTrial())
 ```
-[](quiz60_pic1.png)
-[](quiz60_pic2.png)
-[](quiz60_pic3.png)
+![](quiz60_pic1.png)
+![](quiz60_pic2.png)
+![](quiz60_pic3.png)
