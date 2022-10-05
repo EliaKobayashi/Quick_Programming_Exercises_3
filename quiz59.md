@@ -11,4 +11,4 @@ def TimeTrial():
 
 print(TimeTrial())
 ```
-![](quiz59_pic)
+![](quiz59_pic.png)
