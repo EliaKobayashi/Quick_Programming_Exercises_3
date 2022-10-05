@@ -1,4 +1,4 @@
-'''.py
+```.py
 class IP_Creater:
     def __init__(self,subnet : str,n: int):
         self.subnet = subnet
@@ -19,4 +19,4 @@ class IP_Creater:
 
 output = IP_Creater("192.168.4.0",4)
 print(output.get_host("192.168.4.0",4))
-'''
+```
