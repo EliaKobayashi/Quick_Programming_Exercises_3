@@ -1,3 +1,4 @@
+## Binary converter: write a program in OOP that converts a number from 0-255 to a 8-bit binary representation 
 ```.py
 class converter:
     def __init__(self, number):
@@ -17,3 +18,4 @@ class converter:
 
 print(converter(number=10).binirize())
 ```
+![](quiz55_pic.png)
