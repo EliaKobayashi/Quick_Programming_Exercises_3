@@ -57,4 +57,5 @@ print(test1.hex2dex(num="B3"))
 print(test1.mac_rx)
 print(test1.build())
 ```
-![](quiz56_pic.png)
+![](quiz56_pic1.png)
+![](quiz56_pic2.png)
