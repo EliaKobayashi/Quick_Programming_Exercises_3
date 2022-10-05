@@ -26,4 +26,4 @@ print(test2.get_host(“10.10.1.0”, 500))
 test3 = IP_Creater(“10.10.1.250”, 7)
 print(test3.get_host(“10.10.1.250”, 7))
 ```
-![](quiz59_pic.png)
+![](quiz53_pic.png)
