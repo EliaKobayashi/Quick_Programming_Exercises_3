@@ -13,4 +13,6 @@ def TimeTrial():
 
 print(TimeTrial())
 ```
-1[](quiz60_pic.png)
+[](quiz60_pic1.png)
+[](quiz60_pic2.png)
+[](quiz60_pic3.png)
