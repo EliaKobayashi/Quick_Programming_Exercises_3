@@ -8,24 +8,24 @@ import random
 from random import randint
 
 
-class quiz65:
+class quiz65: 
     def __init__(self,n):
         self.n=n
         self.answer = int
 
     def count(self):
         list = [False] * self.n
-        for i in range(1, self.n + 1):
-            for k in range(1, self.n + 1):
+        for i in range(1, self.n + 1): #This will loop until the stack is empty
+            for k in range(1, self.n + 1): " This will create 5 columns
                 if k % i == 0:
                     list[k - 1] = not list[k - 1]
         self.answer = sum(list)
         return self.answer
 
     def __repr__(self):
-        colors = ["\033[1;41m", "\033[1;42m", "\033[1;43m", "\033[1;44m"]
+        colors = ["\033[1;41m", "\033[1;42m", "\033[1;43m", "\033[1;44m"] # A list with colors
         answer2 = ""
-        answer2 += f"{colors[random.randint(1,3)]} {self.answer} \033[00m"
+        answer2 += f"{colors[random.randint(1,3)]} {self.answer} \033[00m" # This is to print the result in color
         return answer2
 
 test1 = quiz65(100)
