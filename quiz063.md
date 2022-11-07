@@ -1,4 +1,4 @@
-##There are N closed doors in a school and N students present. The first student opens each door. The second student flips (open⇆close) every second door. The third student flips every third door, and so on. 
+## There are N closed doors in a school and N students present. The first student opens each door. The second student flips (open⇆close) every second door. The third student flips every third door, and so on. 
 
 Create a class that shows the doors open after N students. And the __repr__ shows the doors open in a colorful message
 
