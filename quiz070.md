@@ -28,3 +28,5 @@ print(quiz70())
 ```
 ![](quiz70_pic1.png)
 ![](quiz70_pic2.png)
+### Truth table and circuit for: X = ZW ⨁ (Z ⨁ Y(not W)) 
+![](quiz70_pic3.png)
